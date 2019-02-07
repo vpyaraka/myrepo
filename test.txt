@@ -1,0 +1,25 @@
+This is my first Linux text file
+
+:wq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq
